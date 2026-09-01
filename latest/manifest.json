@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "firmware_url": "https://raw.githubusercontent.com/HB9IIU/HB9IIU-SunSdrKnob-firmware/main/latest/firmware.bin",
-  "sha256": "939ed4795921201a511753746b9446f11c47cfcf3c8acf61a210a586d2fd3642"
+  "sha256": "70674dab28bf60d6456e58a4c9662d030ff3f987a42a75de8ce40488fe8aecab"
 }
